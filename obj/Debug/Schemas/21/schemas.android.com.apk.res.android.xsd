@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v21</xs:documentation>
-    <xs:documentation>13/01/2017 3:58:19 PM</xs:documentation>
+    <xs:documentation>13/01/2017 4:48:13 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -773,8 +773,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1378,8 +1381,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2112,8 +2118,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2468,8 +2477,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2775,8 +2787,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3385,8 +3400,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3656,8 +3674,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3983,8 +4004,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4254,8 +4278,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4503,8 +4530,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5023,8 +5053,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5254,8 +5287,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -5561,8 +5597,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5808,8 +5847,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6238,8 +6280,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6545,8 +6590,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6852,8 +6900,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7198,8 +7249,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7505,8 +7559,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7812,8 +7869,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8174,8 +8234,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -8446,8 +8509,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8872,8 +8938,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9274,8 +9343,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9791,8 +9863,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10253,8 +10328,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -10679,8 +10757,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11278,8 +11359,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -11509,8 +11593,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -11740,8 +11827,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -11971,8 +12061,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12202,8 +12295,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12433,8 +12529,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12664,8 +12763,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12895,8 +12997,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13317,8 +13422,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13575,8 +13683,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13806,8 +13917,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14037,8 +14151,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14268,8 +14385,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14538,8 +14658,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14769,8 +14892,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -15076,8 +15202,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15346,8 +15475,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15755,8 +15887,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15986,8 +16121,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16511,8 +16649,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16851,8 +16992,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17175,8 +17319,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17727,8 +17874,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18043,8 +18193,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18430,8 +18583,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18778,8 +18934,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19025,8 +19184,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19708,8 +19870,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20059,8 +20224,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -20991,8 +21159,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21262,8 +21433,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21532,8 +21706,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21763,8 +21940,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21994,8 +22174,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22225,8 +22408,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22456,8 +22642,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23062,8 +23251,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23310,8 +23502,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -23617,8 +23812,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24308,8 +24506,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24654,8 +24855,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24885,8 +25089,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25282,8 +25489,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25621,8 +25831,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25852,8 +26065,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26619,8 +26835,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26850,8 +27069,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27081,8 +27303,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27312,8 +27537,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27699,8 +27927,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28095,8 +28326,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28326,8 +28560,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -28633,8 +28870,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29298,8 +29538,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -29815,8 +30058,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -30179,8 +30425,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31353,8 +31602,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31624,8 +31876,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31855,8 +32110,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32164,8 +32422,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32395,8 +32656,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32665,8 +32929,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32896,8 +33163,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33271,8 +33541,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33502,8 +33775,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33809,8 +34085,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -34116,8 +34395,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -34423,8 +34705,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -34730,8 +35015,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34985,8 +35273,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35216,8 +35507,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35447,8 +35741,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35678,8 +35975,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35909,8 +36209,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36310,8 +36613,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36541,8 +36847,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36772,8 +37081,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37932,8 +38244,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38740,8 +39055,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39049,8 +39367,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39676,8 +39997,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -40089,8 +40413,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40336,8 +40663,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40567,8 +40897,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40798,8 +41131,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -41105,8 +41441,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -41463,8 +41802,11 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/abbas" />
+            <xs:enumeration value="@drawable/alireza" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/mohammad" />
             <xs:enumeration value="@drawable/myavatar" />
+            <xs:enumeration value="@drawable/pes2017-logo" />
             <xs:enumeration value="@drawable/sadegh" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />

@@ -116,7 +116,7 @@ namespace LeagueManager
                           return;
                       }
 
-                      if (HomeScore.Text.ToString() != "" & AwayScore.Text.ToString() != "")
+                      if (HomeScore.Text.ToString() != "" && AwayScore.Text.ToString() != "")
                       {
                           if (played[current_fixture] == false)
                           {
@@ -150,7 +150,8 @@ namespace LeagueManager
                       }
 
                       //update the table
-                      if (!played.Contains(false))
+                      //if (!played.Contains(false))
+                      if(true)
                       {
                           LeagueTableComponent[] currentTable = new LeagueManager.LeagueActivity.LeagueTableComponent[NoPlayers];
                           for (int i = 0; i < NoPlayers; i++)
@@ -160,6 +161,7 @@ namespace LeagueManager
                           }
                           for(int fixt = 0; fixt<max_fixtures;fixt++)
                           {
+                              if(played[fixt])
                               for (int i = 0; i < NoPlayers; i++)
                               {
                                   // update home
@@ -217,7 +219,7 @@ namespace LeagueManager
                               RankingTable.Add(temp);
                               for (int i = 0; i < NoPlayers; i++)
                               {
-                                  temp = new PlayerStats();
+                                   temp = new PlayerStats();
                                   temp.name = currentTable[i].name;
                                   temp.win = currentTable[i].win.ToString();
                                   temp.draw = currentTable[i].draw.ToString();

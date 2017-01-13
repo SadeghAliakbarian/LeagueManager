@@ -42,5 +42,8 @@ F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.ServiceModel.Inte
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\res\layout\customlistview.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\mohammad.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\alireza.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\pes2017-logo.png
 F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.dll.mdb

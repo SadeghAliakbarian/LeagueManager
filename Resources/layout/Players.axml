@@ -19,19 +19,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/check_sadegh"
-        android:drawableLeft="@drawable/sadegh" />
+        android:drawableLeft="@drawable/sadegh"
+        style="@style/XamarinDesignerCustomAppliedTheme" />
     <CheckBox
         android:text="Mohammad"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/check_mohammad"
-        android:drawableLeft="@drawable/myavatar" />
+        android:drawableLeft="@drawable/mohammad" />
     <CheckBox
         android:text="Alireza"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/check_alireza"
-        android:drawableLeft="@drawable/myavatar" />
+        android:drawableLeft="@drawable/alireza" />
     <CheckBox
         android:text="Abbas"
         android:layout_width="match_parent"
