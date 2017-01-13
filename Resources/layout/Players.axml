@@ -18,41 +18,41 @@
         android:text="Sadegh"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox1"
+        android:id="@+id/check_sadegh"
         android:drawableLeft="@drawable/sadegh" />
     <CheckBox
         android:text="Mohammad"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox2"
+        android:id="@+id/check_mohammad"
         android:drawableLeft="@drawable/myavatar" />
     <CheckBox
         android:text="Alireza"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox3"
+        android:id="@+id/check_alireza"
         android:drawableLeft="@drawable/myavatar" />
     <CheckBox
         android:text="Abbas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox4"
+        android:id="@+id/check_abbas"
         android:drawableLeft="@drawable/abbas" />
     <CheckBox
         android:text="Salim"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox5"
+        android:id="@+id/check_salim"
         android:drawableLeft="@drawable/myavatar" />
     <CheckBox
         android:text="Monaj"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/checkBox7"
+        android:id="@+id/check_monaj"
         android:drawableLeft="@drawable/myavatar" />
     <CheckBox
         android:text="Mousa"
-        android:id="@+id/checkBox6"
+        android:id="@+id/check_mousa"
         android:drawableLeft="@drawable/myavatar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -73,5 +73,5 @@
         android:text="Done"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:id="@+id/btn_donePlayers" />
 </LinearLayout>

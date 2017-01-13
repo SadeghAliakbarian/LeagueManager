@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v21</xs:documentation>
-    <xs:documentation>10/01/2017 6:29:58 PM</xs:documentation>
+    <xs:documentation>13/01/2017 12:40:42 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -772,7 +772,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -1378,7 +1377,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -2113,7 +2111,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -2470,7 +2467,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -2778,7 +2774,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -3389,7 +3384,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -3661,7 +3655,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -3989,7 +3982,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -4261,7 +4253,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -4511,7 +4502,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -5032,7 +5022,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -5264,7 +5253,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -5572,7 +5560,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -5820,7 +5807,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -6251,7 +6237,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -6559,7 +6544,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -6867,7 +6851,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -7214,7 +7197,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -7522,7 +7504,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -7830,7 +7811,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -8193,7 +8173,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -8466,7 +8445,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -8893,7 +8871,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -9296,7 +9273,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -9814,7 +9790,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -10277,7 +10252,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -10704,7 +10678,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -11304,7 +11277,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -11536,7 +11508,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -11768,7 +11739,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -12000,7 +11970,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -12232,7 +12201,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -12464,7 +12432,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -12696,7 +12663,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -12928,7 +12894,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -13351,7 +13316,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -13610,7 +13574,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -13842,7 +13805,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -14074,7 +14036,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -14306,7 +14267,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -14577,7 +14537,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -14809,7 +14768,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -15117,7 +15075,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -15388,7 +15345,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -15798,7 +15754,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -16030,7 +15985,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -16460,21 +16414,20 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/timePicker1" />
+            <xs:enumeration value="@id/btn_donePlayers" />
             <xs:enumeration value="@id/btn_LeagueConfirm" />
             <xs:enumeration value="@id/btn_ResultConfirm" />
-            <xs:enumeration value="@id/button1" />
-            <xs:enumeration value="@id/checkBox1" />
-            <xs:enumeration value="@id/checkBox2" />
-            <xs:enumeration value="@id/checkBox3" />
-            <xs:enumeration value="@id/checkBox4" />
-            <xs:enumeration value="@id/checkBox5" />
-            <xs:enumeration value="@id/checkBox6" />
-            <xs:enumeration value="@id/checkBox7" />
+            <xs:enumeration value="@id/check_abbas" />
+            <xs:enumeration value="@id/check_alireza" />
+            <xs:enumeration value="@id/check_mohammad" />
+            <xs:enumeration value="@id/check_monaj" />
+            <xs:enumeration value="@id/check_mousa" />
+            <xs:enumeration value="@id/check_sadegh" />
+            <xs:enumeration value="@id/check_salim" />
             <xs:enumeration value="@id/edit_AwayScore" />
             <xs:enumeration value="@id/edit_HomeScore" />
             <xs:enumeration value="@id/edit_LeagueName" />
-            <xs:enumeration value="@id/edit_NumberOfPlayers" />
-            <xs:enumeration value="@id/edit_PlayerNames" />
+            <xs:enumeration value="@id/imageView1" />
             <xs:enumeration value="@id/radio_DoubleElimination" />
             <xs:enumeration value="@id/radio_SingleElimination" />
             <xs:enumeration value="@id/radioGroup1" />
@@ -16484,8 +16437,6 @@
             <xs:enumeration value="@id/space3" />
             <xs:enumeration value="@id/space4" />
             <xs:enumeration value="@id/textView1" />
-            <xs:enumeration value="@id/textView2" />
-            <xs:enumeration value="@id/textView3" />
             <xs:enumeration value="@id/textView4" />
             <xs:enumeration value="@id/textView5" />
             <xs:enumeration value="@id/txt_AwayName" />
@@ -16554,7 +16505,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -16895,7 +16845,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -17220,7 +17169,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -17773,7 +17721,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -18090,7 +18037,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -18478,7 +18424,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -18827,7 +18772,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -19075,7 +19019,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -19759,7 +19702,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -20111,7 +20053,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -21044,7 +20985,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -21316,7 +21256,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -21587,7 +21526,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -21819,7 +21757,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -22051,7 +21988,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -22283,7 +22219,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -22515,7 +22450,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -23122,7 +23056,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -23371,7 +23304,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -23679,7 +23611,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -24371,7 +24302,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -24718,7 +24648,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -24950,7 +24879,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -25348,7 +25276,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -25688,7 +25615,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -25920,7 +25846,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -26688,7 +26613,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -26920,7 +26844,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -27152,7 +27075,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -27384,7 +27306,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -27772,7 +27693,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -28169,7 +28089,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -28401,7 +28320,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -28709,7 +28627,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -29375,7 +29292,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -29893,7 +29809,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -30258,7 +30173,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -31433,7 +31347,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -31705,7 +31618,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -31937,7 +31849,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -32247,7 +32158,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -32479,7 +32389,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -32750,7 +32659,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -32982,7 +32890,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -33358,7 +33265,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -33590,7 +33496,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -33898,7 +33803,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -34206,7 +34110,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -34514,7 +34417,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -34822,7 +34724,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -35078,7 +34979,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -35310,7 +35210,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -35542,7 +35441,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -35774,7 +35672,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -36006,7 +35903,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -36408,7 +36304,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -36640,7 +36535,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -36872,7 +36766,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -38033,7 +37926,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -38842,7 +38734,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -39152,7 +39043,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -39780,7 +39670,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -40194,7 +40083,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -40442,7 +40330,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -40674,7 +40561,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -40906,7 +40792,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -41214,7 +41099,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />
@@ -41573,7 +41457,6 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@drawable/14855914_1275565879162517_3693127491092170918_o" />
             <xs:enumeration value="@drawable/abbas" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/myavatar" />

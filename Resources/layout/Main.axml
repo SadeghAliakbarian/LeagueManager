@@ -10,6 +10,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView5"
         android:textAlignment="center" />
+    <ImageView
+        android:src="@drawable/icon"
+        android:layout_width="match_parent"
+        android:layout_height="82.0dp"
+        android:id="@+id/imageView1" />
     <TextView
         android:text="League Name"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -20,17 +25,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/edit_LeagueName" />
-    <TextView
-        android:text="Number of Players"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+    <Space
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
-    <EditText
-        android:inputType="number"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/edit_NumberOfPlayers" />
+        android:layout_height="47.0dp"
+        android:id="@+id/space2" />
     <TextView
         android:text="Fixture Mode"
         android:textAppearance="?android:attr/textAppearanceMedium"
@@ -53,27 +51,15 @@
             android:text="Two-Leg Fixture"
             android:id="@+id/radio_DoubleElimination" />
     </RadioGroup>
-    <TextView
-        android:text="Player Names (one in each line)"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+    <Space
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView3" />
-    <ScrollView
-        android:minWidth="25px"
-        android:minHeight="25px"
-        android:layout_width="match_parent"
-        android:layout_height="153.5dp"
-        android:id="@+id/scrollView1">
-        <EditText
-            android:inputType="textMultiLine"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/edit_PlayerNames" />
-    </ScrollView>
+        android:id="@+id/space1" />
     <Button
         android:text="Confirm &amp; Next"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btn_LeagueConfirm" />
+        android:id="@+id/btn_LeagueConfirm"
+        android:layout_marginBottom="33.5dp"
+        android:layout_marginTop="40.5dp" />
 </LinearLayout>

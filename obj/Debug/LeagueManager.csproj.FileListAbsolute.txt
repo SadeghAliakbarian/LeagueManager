@@ -36,5 +36,9 @@ F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\res\layout\main.xml
 F:\LeagueManager\LeagueManager\obj\Debug\res\layout\league.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\players.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\sadegh.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\abbas.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\myavatar.png
 F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.dll.mdb

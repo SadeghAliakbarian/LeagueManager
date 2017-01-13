@@ -69,35 +69,35 @@ namespace LeagueManager
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050013
-			public const int btn_LeagueConfirm = 2131034131;
+			// aapt resource value: 0x7f050012
+			public const int btn_LeagueConfirm = 2131034130;
 			
 			// aapt resource value: 0x7f050005
 			public const int btn_ResultConfirm = 2131034117;
 			
-			// aapt resource value: 0x7f05001f
-			public const int button1 = 2131034143;
-			
-			// aapt resource value: 0x7f050015
-			public const int checkBox1 = 2131034133;
-			
-			// aapt resource value: 0x7f050016
-			public const int checkBox2 = 2131034134;
+			// aapt resource value: 0x7f05001c
+			public const int btn_donePlayers = 2131034140;
 			
 			// aapt resource value: 0x7f050017
-			public const int checkBox3 = 2131034135;
+			public const int check_abbas = 2131034135;
 			
-			// aapt resource value: 0x7f050018
-			public const int checkBox4 = 2131034136;
+			// aapt resource value: 0x7f050016
+			public const int check_alireza = 2131034134;
+			
+			// aapt resource value: 0x7f050015
+			public const int check_mohammad = 2131034133;
 			
 			// aapt resource value: 0x7f050019
-			public const int checkBox5 = 2131034137;
-			
-			// aapt resource value: 0x7f05001b
-			public const int checkBox6 = 2131034139;
+			public const int check_monaj = 2131034137;
 			
 			// aapt resource value: 0x7f05001a
-			public const int checkBox7 = 2131034138;
+			public const int check_mousa = 2131034138;
+			
+			// aapt resource value: 0x7f050014
+			public const int check_sadegh = 2131034132;
+			
+			// aapt resource value: 0x7f050018
+			public const int check_salim = 2131034136;
 			
 			// aapt resource value: 0x7f050004
 			public const int edit_AwayScore = 2131034116;
@@ -105,14 +105,11 @@ namespace LeagueManager
 			// aapt resource value: 0x7f050002
 			public const int edit_HomeScore = 2131034114;
 			
-			// aapt resource value: 0x7f05000a
-			public const int edit_LeagueName = 2131034122;
+			// aapt resource value: 0x7f05000b
+			public const int edit_LeagueName = 2131034123;
 			
-			// aapt resource value: 0x7f05000c
-			public const int edit_NumberOfPlayers = 2131034124;
-			
-			// aapt resource value: 0x7f050012
-			public const int edit_PlayerNames = 2131034130;
+			// aapt resource value: 0x7f050009
+			public const int imageView1 = 2131034121;
 			
 			// aapt resource value: 0x7f05000e
 			public const int radioGroup1 = 2131034126;
@@ -126,26 +123,20 @@ namespace LeagueManager
 			// aapt resource value: 0x7f050006
 			public const int scrollView1 = 2131034118;
 			
-			// aapt resource value: 0x7f05001c
-			public const int space1 = 2131034140;
-			
-			// aapt resource value: 0x7f05001d
-			public const int space2 = 2131034141;
-			
-			// aapt resource value: 0x7f05001e
-			public const int space3 = 2131034142;
-			
-			// aapt resource value: 0x7f050014
-			public const int space4 = 2131034132;
-			
-			// aapt resource value: 0x7f050009
-			public const int textView1 = 2131034121;
-			
-			// aapt resource value: 0x7f05000b
-			public const int textView2 = 2131034123;
-			
 			// aapt resource value: 0x7f050011
-			public const int textView3 = 2131034129;
+			public const int space1 = 2131034129;
+			
+			// aapt resource value: 0x7f05000c
+			public const int space2 = 2131034124;
+			
+			// aapt resource value: 0x7f05001b
+			public const int space3 = 2131034139;
+			
+			// aapt resource value: 0x7f050013
+			public const int space4 = 2131034131;
+			
+			// aapt resource value: 0x7f05000a
+			public const int textView1 = 2131034122;
 			
 			// aapt resource value: 0x7f05000d
 			public const int textView4 = 2131034125;

@@ -1,3 +1,7 @@
+LeagueManager.AddPlayersActivity, LeagueManager;md578f332b8e9e52a407f48cd7de6e2e9cd.AddPlayersActivity
+LeagueManager.AddPlayersActivity, LeagueManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md578f332b8e9e52a407f48cd7de6e2e9cd.AddPlayersActivity
+LeagueManager.AddPlayersActivity;md578f332b8e9e52a407f48cd7de6e2e9cd.AddPlayersActivity
+leaguemanager.AddPlayersActivity;md578f332b8e9e52a407f48cd7de6e2e9cd.AddPlayersActivity
 LeagueManager.LeagueActivity, LeagueManager;md578f332b8e9e52a407f48cd7de6e2e9cd.LeagueActivity
 LeagueManager.LeagueActivity, LeagueManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md578f332b8e9e52a407f48cd7de6e2e9cd.LeagueActivity
 LeagueManager.LeagueActivity;md578f332b8e9e52a407f48cd7de6e2e9cd.LeagueActivity

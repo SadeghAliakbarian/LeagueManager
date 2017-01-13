@@ -4,6 +4,7 @@
   <uses-sdk android:minSdkVersion="14" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="LeagueManager" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="AddPlayersActivity" android:name="md578f332b8e9e52a407f48cd7de6e2e9cd.AddPlayersActivity" />
     <activity android:label="LeagueActivity" android:name="md578f332b8e9e52a407f48cd7de6e2e9cd.LeagueActivity" />
     <activity android:icon="@drawable/icon" android:label="LeagueManager" android:name="md578f332b8e9e52a407f48cd7de6e2e9cd.MainActivity">
       <intent-filter>
