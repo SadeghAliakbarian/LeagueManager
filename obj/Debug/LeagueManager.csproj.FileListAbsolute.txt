@@ -2,7 +2,6 @@ F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.dll
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.pdb
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.LeagueManager.apk
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.LeagueManager-Signed.apk
-F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.csprojResolveAssemblyReference.cache
 F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.dll
 F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.pdb
 F:\LeagueManager\LeagueManager\obj\Debug\android\bin\LeagueManager.LeagueManager.apk
@@ -10,7 +9,15 @@ F:\LeagueManager\LeagueManager\obj\Debug\res\values\strings.xml
 F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\icon.png
 F:\LeagueManager\LeagueManager\obj\Debug\R.cs.flag
 F:\LeagueManager\LeagueManager\obj\Debug\uploadflags.txt
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\main.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\league.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\players.xml
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\sadegh.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\abbas.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\myavatar.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\mycustomlistview.xml
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.dll.mdb
+F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.csprojResolveAssemblyReference.cache
 F:\LeagueManager\LeagueManager\bin\Debug\Java.Interop.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Debug\Mono.Android.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Debug\mscorlib.dll.mdb
@@ -34,11 +41,6 @@ F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Runtime.Serializa
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.dll.mdb
 F:\LeagueManager\LeagueManager\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-F:\LeagueManager\LeagueManager\obj\Debug\res\layout\main.xml
-F:\LeagueManager\LeagueManager\obj\Debug\res\layout\league.xml
-F:\LeagueManager\LeagueManager\obj\Debug\res\layout\players.xml
-F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\sadegh.png
-F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\abbas.png
-F:\LeagueManager\LeagueManager\obj\Debug\res\drawable\myavatar.png
+F:\LeagueManager\LeagueManager\obj\Debug\res\layout\customlistview.xml
 F:\LeagueManager\LeagueManager\obj\Debug\LeagueManager.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Debug\LeagueManager.dll.mdb

@@ -40,5 +40,7 @@ F:\LeagueManager\LeagueManager\obj\Release\res\layout\players.xml
 F:\LeagueManager\LeagueManager\obj\Release\res\drawable\sadegh.png
 F:\LeagueManager\LeagueManager\obj\Release\res\drawable\abbas.png
 F:\LeagueManager\LeagueManager\obj\Release\res\drawable\myavatar.png
+F:\LeagueManager\LeagueManager\obj\Release\res\layout\mycustomlistview.xml
+F:\LeagueManager\LeagueManager\obj\Release\res\layout\customlistview.xml
 F:\LeagueManager\LeagueManager\obj\Release\LeagueManager.dll.mdb
 F:\LeagueManager\LeagueManager\bin\Release\LeagueManager.dll.mdb

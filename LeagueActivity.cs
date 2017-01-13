@@ -34,7 +34,7 @@ namespace LeagueManager
             SetContentView(Resource.Layout.League);
 
             // second page elements
-            TextView LeagueTable = FindViewById<TextView>(Resource.Id.txt_Table);
+            //TextView LeagueTable = FindViewById<TextView>(Resource.Id.txt_table);
             TextView Fixture = FindViewById<TextView>(Resource.Id.txt_Fixture);
             TextView Home = FindViewById<TextView>(Resource.Id.txt_HomeName);
             TextView Away = FindViewById<TextView>(Resource.Id.txt_AwayName);
@@ -204,13 +204,34 @@ namespace LeagueManager
 
                               // sort the table
                               Array.Sort<LeagueTableComponent>(currentTable, (x, y) => y.point.CompareTo(x.point));
-                              LeagueTable.Text = "";
+                              //LeagueTable.Text = "";
+                              List<PlayerStats> RankingTable = new List<PlayerStats>();
+                              PlayerStats temp = new PlayerStats();
+                              temp.name = "Team";
+                              temp.win = "Win";
+                              temp.draw = "Draw";
+                              temp.lose = "Lose";
+                              temp.point = "Points";
+                              temp.GA = "GA";
+
+                              RankingTable.Add(temp);
                               for (int i = 0; i < NoPlayers; i++)
                               {
-                                  LeagueTable.Text += (i + 1).ToString() + ": " + currentTable[i].name + "\n";
-                                  LeagueTable.Text += "Win: " + currentTable[i].win + ", Lose: " + currentTable[i].lose + ", Draw: " + currentTable[i].draw + ", GA: "+ currentTable[i].GA+ ", Points: " + currentTable[i].point;
-                                  LeagueTable.Text += "\n-----------------------------\n\n";
+                                  temp = new PlayerStats();
+                                  temp.name = currentTable[i].name;
+                                  temp.win = currentTable[i].win.ToString();
+                                  temp.draw = currentTable[i].draw.ToString();
+                                  temp.lose = currentTable[i].lose.ToString();
+                                  temp.point = currentTable[i].point.ToString();
+                                  temp.GA = currentTable[i].GA.ToString();
+
+                                  RankingTable.Add(temp);
                               }
+                              ListView rankingList = FindViewById<ListView>(Resource.Id.listRanking);
+                              RankingListView adapter = new RankingListView(this, RankingTable) ;
+                              //ArrayAdapter<string> adapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleListItem1, alaki);
+                              rankingList.Adapter = adapter;
+                              
 
                           }
                       }

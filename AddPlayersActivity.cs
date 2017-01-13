@@ -19,7 +19,7 @@ namespace LeagueManager
         List<string> tempNames;
 
         int NoPlayers = 0;
-        int max_fixtures = 0, current_fixture = 0;
+        int max_fixtures = 0;
        
 
 
