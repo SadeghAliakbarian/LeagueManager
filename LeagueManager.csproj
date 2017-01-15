@@ -70,6 +70,7 @@
     <Compile Include="AddPlayersActivity.cs" />
     <Compile Include="LeagueActivity.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="PlayerProfileClass.cs" />
     <Compile Include="PlayerStats.cs" />
     <Compile Include="RankingListView.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -91,7 +92,13 @@
     <AndroidResource Include="Resources\layout\MyCustomListView.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\CustomListView.axml">
+    <AndroidResource Include="Resources\layout\PlayerProfile.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Home.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AddPlayer.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

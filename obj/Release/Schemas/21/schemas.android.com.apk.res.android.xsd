@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v21</xs:documentation>
-    <xs:documentation>13/01/2017 4:08:54 PM</xs:documentation>
+    <xs:documentation>15/01/2017 12:52:20 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16555,6 +16555,11 @@
             <xs:enumeration value="@id/btn_donePlayers" />
             <xs:enumeration value="@id/btn_LeagueConfirm" />
             <xs:enumeration value="@id/btn_ResultConfirm" />
+            <xs:enumeration value="@id/button1" />
+            <xs:enumeration value="@id/button2" />
+            <xs:enumeration value="@id/button3" />
+            <xs:enumeration value="@id/button4" />
+            <xs:enumeration value="@id/button5" />
             <xs:enumeration value="@id/check_abbas" />
             <xs:enumeration value="@id/check_alireza" />
             <xs:enumeration value="@id/check_mohammad" />
@@ -16565,18 +16570,25 @@
             <xs:enumeration value="@id/edit_AwayScore" />
             <xs:enumeration value="@id/edit_HomeScore" />
             <xs:enumeration value="@id/edit_LeagueName" />
+            <xs:enumeration value="@id/editText1" />
+            <xs:enumeration value="@id/editText2" />
+            <xs:enumeration value="@id/editText3" />
             <xs:enumeration value="@id/imageView1" />
             <xs:enumeration value="@id/listRanking" />
             <xs:enumeration value="@id/radio_DoubleElimination" />
             <xs:enumeration value="@id/radio_SingleElimination" />
             <xs:enumeration value="@id/radioGroup1" />
+            <xs:enumeration value="@id/ratingBar1" />
             <xs:enumeration value="@id/space1" />
             <xs:enumeration value="@id/space2" />
             <xs:enumeration value="@id/space3" />
             <xs:enumeration value="@id/space4" />
             <xs:enumeration value="@id/textView1" />
+            <xs:enumeration value="@id/textView2" />
+            <xs:enumeration value="@id/textView3" />
             <xs:enumeration value="@id/textView4" />
             <xs:enumeration value="@id/textView5" />
+            <xs:enumeration value="@id/textView6" />
             <xs:enumeration value="@id/txt_AwayName" />
             <xs:enumeration value="@id/txt_Fixture" />
             <xs:enumeration value="@id/txt_HomeName" />
